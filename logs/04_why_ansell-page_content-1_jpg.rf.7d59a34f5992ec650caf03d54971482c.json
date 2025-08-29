@@ -1,0 +1,15 @@
+{
+  "filename": "04_why_ansell-page_content-1_jpg.rf.7d59a34f5992ec650caf03d54971482c.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.7210314273834229,
+      "bbox": [
+        208,
+        420,
+        286,
+        520
+      ]
+    }
+  ]
+}

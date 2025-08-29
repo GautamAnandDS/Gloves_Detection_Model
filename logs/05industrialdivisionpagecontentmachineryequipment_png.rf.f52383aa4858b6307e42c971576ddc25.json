@@ -1,0 +1,25 @@
+{
+  "filename": "05industrialdivisionpagecontentmachineryequipment_png.rf.f52383aa4858b6307e42c971576ddc25.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.6691207885742188,
+      "bbox": [
+        410,
+        343,
+        506,
+        452
+      ]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.5005690455436707,
+      "bbox": [
+        241,
+        331,
+        343,
+        504
+      ]
+    }
+  ]
+}

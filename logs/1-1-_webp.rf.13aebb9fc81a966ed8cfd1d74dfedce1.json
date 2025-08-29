@@ -1,0 +1,35 @@
+{
+  "filename": "1-1-_webp.rf.13aebb9fc81a966ed8cfd1d74dfedce1.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.8092185854911804,
+      "bbox": [
+        142,
+        440,
+        207,
+        536
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.7899002432823181,
+      "bbox": [
+        192,
+        394,
+        225,
+        455
+      ]
+    },
+    {
+      "label": "bare_hand",
+      "confidence": 0.7232189178466797,
+      "bbox": [
+        353,
+        354,
+        442,
+        453
+      ]
+    }
+  ]
+}

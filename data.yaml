@@ -1,0 +1,12 @@
+# path to your dataset (root folder)
+path: /content/drive/MyDrive/Glove_Data  
+
+# train and validation image folders (relative to path above)
+train: train/images
+val: valid/images
+
+# number of classes
+nc: 2  
+
+# class names
+names: ["gloved_hand", "bare_hand"]
