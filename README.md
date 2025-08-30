@@ -22,6 +22,31 @@ Gloves_Detection_Model/
 ├── image.png              # Example detection output
 └── README.md              # Project documentation
 ```
+Perfect idea 👍 Adding a **Data Overview** section will make your README look more complete and professional.
+
+Here’s how you can structure it (based on the Roboflow documentation you shared):
+
+---
+
+### 📊 Data Overview
+
+This project uses the **Glove Dataset (v8)** provided via [Roboflow Universe](https://universe.roboflow.com/test-el83b/glove-absoo).
+
+* **Total Images**: 3002
+* **Format**: YOLOv8 (segmentation-style annotations)
+* **Classes**:
+
+  * `gloved_hand`
+  * `bare_hand`
+* **Pre-processing Applied**:
+
+  * Auto-orientation of pixel data (with EXIF-orientation stripping)
+  * Resized to 640x640 (stretch)
+* **Augmentation**: None applied in dataset export
+* **License**: MIT
+
+🔗 [View Dataset on Roboflow](https://universe.roboflow.com/test-el83b/glove-absoo)
+
 
 ---
 
