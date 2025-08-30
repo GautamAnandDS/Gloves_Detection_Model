@@ -32,7 +32,7 @@ Here’s how you can structure it (based on the Roboflow documentation you share
 
 This project uses the **Glove Dataset (v8)** provided via [Roboflow Universe](https://universe.roboflow.com/test-el83b/glove-absoo).
 
-* **Total Images**: 3002
+* **Total Images**: 5000+
 * **Format**: YOLOv8 (segmentation-style annotations)
 * **Classes**:
 
